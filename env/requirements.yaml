@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.33
 - name: asterix
   repository: http://jenkins-x-chartmuseum:8080
-  version: 2.2.66
+  version: 2.2.69
 - name: ether
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.21
