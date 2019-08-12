@@ -18,7 +18,7 @@ dependencies:
   version: 2.3.89
 - name: gimli
   repository: http://jenkins-x-chartmuseum:8080
-  version: 11.4.27
+  version: 11.4.28
 - name: rule-engine
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.22
