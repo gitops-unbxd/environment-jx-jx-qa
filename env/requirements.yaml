@@ -25,3 +25,6 @@ dependencies:
 - name: search-configurator
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.6.5
+- name: wingman
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 2.0.8
