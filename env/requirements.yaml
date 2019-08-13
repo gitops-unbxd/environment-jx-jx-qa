@@ -19,9 +19,6 @@ dependencies:
 - name: gimli
   repository: http://jenkins-x-chartmuseum:8080
   version: 11.4.30
-- name: rule-engine
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.24
 - name: search-configurator
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.6.5
